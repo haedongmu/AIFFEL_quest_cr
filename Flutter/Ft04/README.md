@@ -35,10 +35,10 @@
 [![구현 영상](https://drive.google.com/thumbnail?id=1xJwDIDCv_JGalvD591cE_9i0CsbNagPU)](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view)
 
 # 페이지구현
-1. 공통클래스
-cart_icon.dart : 카트
-custom_app_bar.dart : 앱바
-custom_nav_bar.dart : 네비게이션바
+1. 공통클래스  
+cart_icon.dart : 카트  
+custom_app_bar.dart : 앱바  
+custom_nav_bar.dart : 네비게이션바  
 2. 서랍클래스
 app_drawer.dart
 base_scaffold.dart
