@@ -31,6 +31,8 @@
 <img src="https://github.com/user-attachments/assets/942161b3-fc8d-4932-93e9-e39e12234dfc" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/03e33cd5-cb19-4cc9-a1c1-7e19f2595e12" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
+# 구현영
+[동영상 보기](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view?usp=sharing)
 
 # 회고(참고 링크 및 코드 개선)
 ```
