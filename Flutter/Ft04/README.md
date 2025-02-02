@@ -39,29 +39,29 @@
 cart_icon.dart : 카트  
 custom_app_bar.dart : 앱바  
 custom_nav_bar.dart : 네비게이션바  
-2. 서랍클래스
-app_drawer.dart
-base_scaffold.dart
-3. 메인화면
-main.dart : 온보딩
-home_screen.dart : 홈화면
-4.상점클래스
-menu_items.dart : 메뉴리스트 등록
-menu_screen.dart : 메뉴
-menu_detail_screen.dart : 메뉴상세
-order_screen.dart :주문
-payment_screen.dart : 결제
-order_history_screen.dart : 주문내역
-order_detail_screen.dart : 주문내역상세
-5. 운동클래스
-exercise_data.dart : 운동종목 등록
-exercise_settings_screen.dart : 즐기는 운동 설정
-exercise_schedule_screen.dart : 운동스케줄
-generate_exercise_schedule.dart : 운동스케줄생성(운동스케줄 페이지 접속시 새로운 주문내역이 있을 경우)
-exercise_schedule_detail_screen.dart : 운동스케줄상세
-6. 설정클래스
-language_selection_screen.dart : 언어선택
-theme_selection_screen.dart : 테마선택
+2. 서랍클래스  
+app_drawer.dart  
+base_scaffold.dart  
+3. 메인화면  
+main.dart : 온보딩  
+home_screen.dart : 홈화면  
+4.상점클래스  
+menu_items.dart : 메뉴리스트 등록  
+menu_screen.dart : 메뉴  
+menu_detail_screen.dart : 메뉴상세  
+order_screen.dart :주문  
+payment_screen.dart : 결제  
+order_history_screen.dart : 주문내역  
+order_detail_screen.dart : 주문내역상세  
+5. 운동클래스  
+exercise_data.dart : 운동종목 등록  
+exercise_settings_screen.dart : 즐기는 운동 설정  
+exercise_schedule_screen.dart : 운동스케줄  
+generate_exercise_schedule.dart : 운동스케줄생성(운동스케줄 페이지 접속시 새로운 주문내역이 있을 경우)  
+exercise_schedule_detail_screen.dart : 운동스케줄상세  
+6. 설정클래스  
+language_selection_screen.dart : 언어선택  
+theme_selection_screen.dart : 테마선택  
 
 # 회고(참고 링크 및 코드 개선)
 ```
