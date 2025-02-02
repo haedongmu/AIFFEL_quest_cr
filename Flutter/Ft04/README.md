@@ -12,7 +12,7 @@
   - 배달 음식을 자주 시키는 소비자: 건강한 선택을 유도.
 
 
-# 앱 구조도
+# 앱 구조도(엑셀)
 ![Image](https://github.com/user-attachments/assets/87b22f57-d18e-48b9-9fc0-02dc8696949a)
 
 # 프로토타이핑
