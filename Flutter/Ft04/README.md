@@ -1,7 +1,7 @@
-# AIFFEL_quest_cr
-# AIFFEL Campus Online Code Peer Review Templete
-- 코더 : 코더의 이름을 작성하세요.
-- 리뷰어 : 리뷰어의 이름을 작성하세요.
+# 쿠키앤다이어트 앱 분석 및 역설계 하기
+# 앱정보
+- 앱이름
+- 쿠키앤다이어트
 
 
 # PRT(Peer Review Template)
