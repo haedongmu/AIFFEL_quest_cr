@@ -32,7 +32,8 @@
 <img src="https://github.com/user-attachments/assets/03e33cd5-cb19-4cc9-a1c1-7e19f2595e12" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 구현영
-<iframe src="https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/preview" width="640" height="480"></iframe>
+[동영상 링크](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view?usp=sharing)
+
 
 # 회고(참고 링크 및 코드 개선)
 ```
