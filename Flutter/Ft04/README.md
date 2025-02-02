@@ -13,7 +13,7 @@
 
 
 # 앱 구조도
-
+![Image](https://github.com/user-attachments/assets/87b22f57-d18e-48b9-9fc0-02dc8696949a)
 
 
 
