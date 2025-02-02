@@ -44,8 +44,7 @@ app_drawer.dart
 base_scaffold.dart  
 3. 메인화면  
 main.dart : 온보딩  
-home_screen.dart : 홈화면  
-
+home_screen.dart : 홈화면
 4.상점클래스  
 menu_items.dart : 메뉴리스트 등록  
 menu_screen.dart : 메뉴  
