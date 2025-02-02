@@ -16,8 +16,8 @@
 ![Image](https://github.com/user-attachments/assets/87b22f57-d18e-48b9-9fc0-02dc8696949a)
 
 # 프로토타이핑
-<img src="https://github.com/user-attachments/assets/d180e0e7-7c32-4d38-a9cb-0f45b4880fa2" width="200" style="margin-right: 20px;"> 
-<img src="https://github.com/user-attachments/assets/c90560c3-4066-4a8e-9e01-04b7111fe7f2" width="200" style="margin-right: 20px;"> 
+<img src="https://github.com/user-attachments/assets/d180e0e7-7c32-4d38-a9cb-0f45b4880fa2" width="200">&nbsp;&nbsp;&nbsp; 
+<img src="https://github.com/user-attachments/assets/c90560c3-4066-4a8e-9e01-04b7111fe7f2" width="200">&nbsp;&nbsp;&nbsp; 
 <img src="https://github.com/user-attachments/assets/392eb057-a0dd-481a-952a-c27b792b1ae2" width="200">
 <img src="https://github.com/user-attachments/assets/8f19fd49-e682-45f0-a0f0-dfc38ac1357e" width="200">
 <img src="https://github.com/user-attachments/assets/55eb1cb7-20d7-4874-a1cc-9ed497a787d4" width="200">
