@@ -4,7 +4,7 @@
 <img src="https://github.com/user-attachments/assets/0330bee7-c888-4403-8a3f-85e258a74407" width="300">
 
 # 디버그화면
-Response Status Code: 200
+Response Status Code: 200  
 Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}  
 Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}  
 Response Status Code: 200  
