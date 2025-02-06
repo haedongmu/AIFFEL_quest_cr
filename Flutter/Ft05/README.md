@@ -5,11 +5,11 @@
 
 # 디버그화면
 Response Status Code: 200
-Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}
-Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}
-Response Status Code: 200
-Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}
-Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}
+Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}  
+Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}  
+Response Status Code: 200  
+Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}  
+Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}  
 
 # AIFFEL_quest_cr
 # AIFFEL Campus Online Code Peer Review Templete
