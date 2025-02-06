@@ -3,6 +3,13 @@
 <img src="https://github.com/user-attachments/assets/6d52c451-8c35-4c1c-8d5f-4167dac2a84e" width="300">
 <img src="https://github.com/user-attachments/assets/0330bee7-c888-4403-8a3f-85e258a74407" width="300">
 
+# 디버그화면
+Response Status Code: 200
+Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}
+Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}
+Response Status Code: 200
+Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}
+Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}
 
 # AIFFEL_quest_cr
 # AIFFEL Campus Online Code Peer Review Templete
