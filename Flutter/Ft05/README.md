@@ -11,6 +11,16 @@ Response Status Code: 200
 Response Body: {"predicted_label":"jellyfish","prediction_score":"0.9999174"}  
 Parsed Data: {predicted_label: jellyfish, prediction_score: 0.9999174}  
 
+# 에러난 부분
+예측확률을 버튼을 눌렀을 때 처음에는 '404' 오류가 나왔습니다. 이 오류는 url 경로가 잘못된 경우에 발생합니다.
+코드를 검토해 보니 Uri.parse(enteredUrl + endpoint), // API 요청 URL 로 되어 있었고, 이것을 Uri.parse(enteredUrl + 'sample') 로 수정하니 정상 작동하였습니다.
+GPT로 수정하다 보니 발생한 오류였는데 디버그 화면에서 실제값을 정상적으로 받아왔는지를 체크함으로써 오류를 해결할 수 있었습니다.
+
+# 회고
+오후 수업이 시작했을 때는 취업지원센터에 있었기 때문에 코딩 방향을 제대로 듣지 못해, 외출복귀 후 한참 고민하다가 다른 분들이 하는 것을 보고 코딩방향을 제대로 알수 있었습니다.  
+어제 배운 내용을 토대로 약간의 변형을 가하는 형태였는데, 아이펠 서버가 몇 차례 말썽을 일으키면서 시간이 많이 지체되었습니다.  
+몇 번 로그아웃 후 재로그인 하는 과정에서 서버는 정상 작동하여, 프로젝트를 잘 마무리 할 수 있었습니다.
+
 # AIFFEL_quest_cr
 # AIFFEL Campus Online Code Peer Review Templete
 - 코더 : 코더의 이름을 작성하세요.
