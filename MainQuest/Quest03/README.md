@@ -14,8 +14,11 @@
   - 음식촬영 : 음식사진을 촬영하면 AI가 사진 속에 포함된 음식의 종류와 수량, 칼로리 정보를 판독해서 앱으로 반환한다. 사용자는 이 정보가 맞으면 그대로 저장할 수 있고, 오류가 있을 경우 직접 수정할 수 있다. 음식정보는 음식일기로 자동저장된다.   
   - 음식일기 : 날짜별로 시간에 따라서 아침(오전 6시 ~ 오전 9시), 점심(오전 11시 ~ 오후 2시), 저녁(오후 5시 ~ 오후7시), 간식(나머지 시간) 4분류로 구분된다.  
 
-# 앱 구조도(엑셀)
+# 앱 구조도(엑셀) - v1.0
 ![Image](https://github.com/user-attachments/assets/87b22f57-d18e-48b9-9fc0-02dc8696949a)
+
+# 앱 구조도(엑셀) - v1.1
+![Image](https://github.com/user-attachments/assets/b36eb7d3-ad5d-4a72-8588-12e5e2a79001)  
 
 # 프로토타이핑
 <img src="https://github.com/user-attachments/assets/c90560c3-4066-4a8e-9e01-04b7111fe7f2" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
