@@ -107,8 +107,9 @@ profile_settings : 개인설정<추가>
 profile_form : 개인설정 상세 화면<추가>
 profile_model : 개인설정 데이터모델 구현<추가>
 profile_actions : 개인설정 버튼클릭동작 구현<추가>
-7. 파일구조도
-   ![Image](https://github.com/user-attachments/assets/5d0913eb-b0a2-4f6e-bd05-77e5720f9c2f)
+
+8. 파일구조도  
+![Image](https://github.com/user-attachments/assets/5d0913eb-b0a2-4f6e-bd05-77e5720f9c2f)
 
 # 회고(참고 링크 및 코드 개선)
 ```
