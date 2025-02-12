@@ -56,12 +56,15 @@
 cart_icon.dart : 카트  
 custom_app_bar.dart : 앱바  
 custom_nav_bar.dart : 네비게이션바  
+
 2. 서랍클래스  
 app_drawer.dart  
 base_scaffold.dart  
+
 3. 메인화면  
 main.dart : 온보딩  
 home_screen.dart : 홈화면
+
 4. 상점클래스  
 menu_items.dart : 메뉴리스트 등록  
 menu_screen.dart : 메뉴  
@@ -70,12 +73,14 @@ order_screen.dart :주문
 payment_screen.dart : 결제  
 order_history_screen.dart : 주문내역  
 order_detail_screen.dart : 주문내역상세  
+
 5. 운동클래스  
 exercise_data.dart : 운동종목 등록  
 exercise_settings_screen.dart : 즐기는 운동 설정  
 exercise_schedule_screen.dart : 운동스케줄  
 generate_exercise_schedule.dart : 운동스케줄생성(운동스케줄 페이지 접속시 새로운 주문내역이 있을 경우)  
 exercise_schedule_detail_screen.dart : 운동스케줄상세  
+
 6. 설정클래스  
 language_selection_screen.dart : 언어선택  
 theme_selection_screen.dart : 테마선택  
@@ -85,13 +90,25 @@ theme_selection_screen.dart : 테마선택
 cart_icon.dart : 카트  
 custom_app_bar.dart : 앱바  
 custom_nav_bar.dart : 네비게이션바  
+
 2. 서랍클래스  
 app_drawer.dart  
 base_scaffold.dart  
+
 3. 메인화면  
 main.dart : 온보딩  
 home_screen.dart : 홈화면
-4. 상점클래스  
+
+4. 음식클래스<추가>
+food_photo_screen : 음식촬영 화면  
+gpt_food_analysis : 음식촬영 후 GPT에서 이미지 분석  
+editable_food_table : 음식촬영 분석결과 표
+food_analysis_result : 음식촬영 분석결과 처리  
+food_diary_storage : 음식일기 저장
+food_diary_screen : 음식일기 화면  
+food_diary_logic : 음식일기 함수 처리
+
+5. 상점클래스  
 menu_items.dart : 메뉴리스트 등록  
 menu_screen.dart : 메뉴  
 menu_detail_screen.dart : 메뉴상세  
@@ -99,13 +116,15 @@ order_screen.dart :주문
 payment_screen.dart : 결제  
 order_history_screen.dart : 주문내역  
 order_detail_screen.dart : 주문내역상세  
-5. 운동클래스  
+
+6. 운동클래스  
 exercise_data.dart : 운동종목 등록  
 exercise_settings_screen.dart : 즐기는 운동 설정  
 exercise_schedule_screen.dart : 운동스케줄  
 generate_exercise_schedule.dart : 운동스케줄생성(운동스케줄 페이지 접속시 새로운 주문내역이 있을 경우)  
 exercise_schedule_detail_screen.dart : 운동스케줄상세  
-6. 설정클래스  
+
+7. 설정클래스  
 language_selection_screen.dart : 언어선택  
 theme_selection_screen.dart : 테마선택  
 profile_settings : 개인설정<추가>  
