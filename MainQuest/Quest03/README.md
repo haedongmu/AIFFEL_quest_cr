@@ -38,10 +38,10 @@
 <img src="https://github.com/user-attachments/assets/03e33cd5-cb19-4cc9-a1c1-7e19f2595e12" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 프로토타이핑 - v1.1
-<img src="https://github.com/user-attachments/assets/01829d45-4253-4ca5-8cd7-b8392130713c" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/53e2e92c-8f2e-4a44-9c11-a4ddf557bc57" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://github.com/user-attachments/assets/7be3b4db-34b0-4abb-abe5-100171898d60" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/a1ef52f3-80da-4f9e-b3e7-45a134c244dc" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7be3b4db-34b0-4abb-abe5-100171898d60" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/53e2e92c-8f2e-4a44-9c11-a4ddf557bc57" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/01829d45-4253-4ca5-8cd7-b8392130713c" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 구현영상
 [![구현 영상](https://drive.google.com/thumbnail?id=1xJwDIDCv_JGalvD591cE_9i0CsbNagPU)](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view)
