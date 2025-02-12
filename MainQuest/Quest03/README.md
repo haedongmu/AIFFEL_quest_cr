@@ -46,7 +46,7 @@
 ## 구현영상
 [![구현 영상](https://drive.google.com/thumbnail?id=1xJwDIDCv_JGalvD591cE_9i0CsbNagPU)](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view)
 
-# 페이지구현
+# 페이지구현 - v1.0
 1. 공통클래스  
 cart_icon.dart : 카트  
 custom_app_bar.dart : 앱바  
@@ -75,26 +75,44 @@ exercise_schedule_detail_screen.dart : 운동스케줄상세
 language_selection_screen.dart : 언어선택  
 theme_selection_screen.dart : 테마선택  
 
+# 페이지구현 - v1.1
+1. 공통클래스  
+cart_icon.dart : 카트  
+custom_app_bar.dart : 앱바  
+custom_nav_bar.dart : 네비게이션바  
+2. 서랍클래스  
+app_drawer.dart  
+base_scaffold.dart  
+3. 메인화면  
+main.dart : 온보딩  
+home_screen.dart : 홈화면
+4. 상점클래스  
+menu_items.dart : 메뉴리스트 등록  
+menu_screen.dart : 메뉴  
+menu_detail_screen.dart : 메뉴상세  
+order_screen.dart :주문  
+payment_screen.dart : 결제  
+order_history_screen.dart : 주문내역  
+order_detail_screen.dart : 주문내역상세  
+5. 운동클래스  
+exercise_data.dart : 운동종목 등록  
+exercise_settings_screen.dart : 즐기는 운동 설정  
+exercise_schedule_screen.dart : 운동스케줄  
+generate_exercise_schedule.dart : 운동스케줄생성(운동스케줄 페이지 접속시 새로운 주문내역이 있을 경우)  
+exercise_schedule_detail_screen.dart : 운동스케줄상세  
+6. 설정클래스  
+language_selection_screen.dart : 언어선택  
+theme_selection_screen.dart : 테마선택
+profile_settings : 개인설정<추가>
+profile_form : 개인설정 상세 화면<추가>
+profile_model : 개인설정 데이터모델 구현<추가>
+profile_actions : 개인설정 버튼클릭동작 구현<추가>
+7. 파일구조도
+   ![Image](https://github.com/user-attachments/assets/5d0913eb-b0a2-4f6e-bd05-77e5720f9c2f)
+
 # 회고(참고 링크 및 코드 개선)
 ```
-# 총개발시간 : 2일
-# GPT-4o : 90%, GPT-o3 : 10%
-# 기획 및 디자인과 개발까지는 총 1일이 소요되었고, 오류테스트에 추가적으로 1일이 소요되었습니다.
-# 예전 같으면 한 달은 족히 걸렸을 법한 개발분량이었습니다.
-# 앞으로 프로그래밍은 GPT를 얼마나 잘 사용하느냐에 따라 생산성이 크게 좌우될 것이라고 봅니다.
-# 초기 개발은 GPT-4o를 사용하여 빠르게 진행하였으나,
-# 결제 처리부분에서 상당히 많은 시간이 소요되면서 때마침 GPT-o3가 출시되어 교체투입하였는데,
-# 놀라울 정도로 빠른 속도로 문제를 해결하였습니다.
-# 그런데 운동스케줄을 생성하는 부분에서는 GPT-o3도 고전하여,
-# 다시 GPT-4o로 전환하여 진행하였습니다.
-# 이 부분에서는 GPT-4o도 마찬가지로 고전하였으나, 코드를 한줄씩 디버깅하면서 진행하자고 제안하고
-# 알고리즘을 직접 불러주고, 코드로 타이핑하는 것만 하라고 해서 결국 코드를 완성할 수 있었습니다.
-# GPT-o3는 확실히 GPT-4o보다 월등히 나아진 모습을 보여주기는 하였으나, 여전히 크게 어렵지 않은 부분에서 고전하는 모습을 보였습니다.
-# 아직은 AGI 완성까지는 갈 길이 멀다는 느낌을 받았습니다.
-# 앱 구조도는 엑셀로 작성한 후 화면을 갭처하였습니다.(툴 사용법이 어려웠기 때문)
-# 프로토타이핑은 따로 작성하지 않고, 실제 개발된 앱화면을 캡처하였습니다.(GPT를 사용할 경우 기획과 동시에 개발가능하기 때문)
-# 다국어지원과 다크테마는 설정페이지만 만들고 기능은 미구현입니다.
-# 현재 GTP는 노코드툴 수준까지 발전하지는 못하였으나,
-# 코드를 잘 아는 사람이 사용할경우 기존 방식보다 30배 이상의 생산성을 향상시킬 수 있다는 것을 확인하였습니다.
-
+# 다트 문법을 명확하게 숙지하지 않은 상태에서 추가 기능 업데이트 작업을 진행하였는데, 버전 1.0에 비해 추가된 페이지에는 복잡한 코딩이 다소 많이 추가되면서 2일간 4페이지 정도만 작업을 진행할 수 있었습니다.  
+# 직접 코딩을 하지 않고 GPT를 통해 코드를 작성하고, 디버깅도 진행하였기 때문에 원래 계획보다는 새로운 기능을 많이 추가하지 못하였습니다.
+# 아무리 AI툴이 급속도로 발전하고 있다고 하여도 프로그래밍 언어를 전혀 모르는 상태에서는 효율적인 개발을 진행할 수 없다는 것을 깨달았습니다. 
 ```
