@@ -100,7 +100,7 @@ base_scaffold.dart
 main.dart : 온보딩  
 home_screen.dart : 홈화면
 
-4. 음식클래스<추가>
+4. 음식클래스<추가>  
 food_photo_screen : 음식촬영 화면  
 gpt_food_analysis : 음식촬영 후 GPT에서 이미지 분석  
 editable_food_table : 음식촬영 분석결과 표
