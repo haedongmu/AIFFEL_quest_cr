@@ -44,7 +44,7 @@
 <img src="https://github.com/user-attachments/assets/01829d45-4253-4ca5-8cd7-b8392130713c" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
 # 디버깅과정
-![Image](https://github.com/user-attachments/assets/79d0b85a-56ca-4d8e-a31b-f4b1a5414496)  
+![Image](https://github.com/user-attachments/assets/a0f63337-d6a7-4b70-ba27-4bc289e23b40)
 - 복잡한 코드는 최신버전 AI도 해결하지 못하였습니다.
 - 결국 GPT-4o 를 통해 코드를 한줄씩 실행하면서 오류를 찾았습니다.
 
