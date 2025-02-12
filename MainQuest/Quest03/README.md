@@ -103,11 +103,11 @@ home_screen.dart : 홈화면
 4. 음식클래스<추가>  
 food_photo_screen : 음식촬영 화면  
 gpt_food_analysis : 음식촬영 후 GPT에서 이미지 분석  
-editable_food_table : 음식촬영 분석결과 표
+editable_food_table : 음식촬영 분석결과 표  
 food_analysis_result : 음식촬영 분석결과 처리  
-food_diary_storage : 음식일기 저장
+food_diary_storage : 음식일기 저장  
 food_diary_screen : 음식일기 화면  
-food_diary_logic : 음식일기 함수 처리
+food_diary_logic : 음식일기 함수 처리  
 
 5. 상점클래스  
 menu_items.dart : 메뉴리스트 등록  
