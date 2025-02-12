@@ -48,7 +48,9 @@
 ![Image](https://github.com/user-attachments/assets/a0f63337-d6a7-4b70-ba27-4bc289e23b40)
 - 복잡한 코드는 최신버전 AI도 해결하지 못하였습니다.
 - 결국 GPT-4o 를 통해 코드를 한줄씩 실행하면서 오류를 찾았습니다.
-
+![Image](https://github.com/user-attachments/assets/a6a8ed3e-783f-4338-bc79-4e00ed279bf3)
+- 복잡한 화면은 해당부분을 별도의 파일로 분리하였습니다.
+  
 ## 구현영상 
 [![구현 영상](https://drive.google.com/thumbnail?id=1xJwDIDCv_JGalvD591cE_9i0CsbNagPU)](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view)
 - v1.0(v1.1 에서 추가된 기능은 핸드폰에서만 동작하는 기능이 많아 프로토타이핑 이미지로 대체합니다.)
