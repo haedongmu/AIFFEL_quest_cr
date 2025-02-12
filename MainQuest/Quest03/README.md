@@ -43,7 +43,12 @@
 <img src="https://github.com/user-attachments/assets/53e2e92c-8f2e-4a44-9c11-a4ddf557bc57" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/01829d45-4253-4ca5-8cd7-b8392130713c" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
-## 구현영상
+# 디버깅과정
+![Image](https://github.com/user-attachments/assets/79d0b85a-56ca-4d8e-a31b-f4b1a5414496)  
+- 복잡한 코드는 최신버전 AI도 해결하지 못하였습니다.
+- 결국 GPT-4o 를 통해 코드를 한줄씩 실행하면서 오류를 찾았습니다.
+
+## 구현영상 - v1.0(v1.1 에서 추가된 기능은 핸드폰에서만 동작하는 기능이 많아 프로토타이핑 이미지로 대체합니다.)
 [![구현 영상](https://drive.google.com/thumbnail?id=1xJwDIDCv_JGalvD591cE_9i0CsbNagPU)](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view)
 
 # 페이지구현 - v1.0
