@@ -21,7 +21,7 @@
 # 앱 구조도(엑셀) - v1.1
 ![Image](https://github.com/user-attachments/assets/b36eb7d3-ad5d-4a72-8588-12e5e2a79001)  
 
-# 프로토타이핑
+# 프로토타이핑 - v1.0  
 <img src="https://github.com/user-attachments/assets/c90560c3-4066-4a8e-9e01-04b7111fe7f2" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/d180e0e7-7c32-4d38-a9cb-0f45b4880fa2" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/2919c0cd-e8a6-4bcc-964b-e92f00c044b4" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
@@ -36,6 +36,12 @@
 <img src="https://github.com/user-attachments/assets/5ed879d8-0abf-46c9-a593-10536529af30" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/942161b3-fc8d-4932-93e9-e39e12234dfc" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://github.com/user-attachments/assets/03e33cd5-cb19-4cc9-a1c1-7e19f2595e12" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+
+# 프로토타이핑 - v1.1
+<img src="https://github.com/user-attachments/assets/01829d45-4253-4ca5-8cd7-b8392130713c" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/53e2e92c-8f2e-4a44-9c11-a4ddf557bc57" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/7be3b4db-34b0-4abb-abe5-100171898d60" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://github.com/user-attachments/assets/a1ef52f3-80da-4f9e-b3e7-45a134c244dc" width="200">&nbsp;&nbsp;&nbsp;&nbsp;
 
 ## 구현영상
 [![구현 영상](https://drive.google.com/thumbnail?id=1xJwDIDCv_JGalvD591cE_9i0CsbNagPU)](https://drive.google.com/file/d/1xJwDIDCv_JGalvD591cE_9i0CsbNagPU/view)
