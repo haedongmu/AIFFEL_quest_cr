@@ -102,11 +102,11 @@ generate_exercise_schedule.dart : 운동스케줄생성(운동스케줄 페이�
 exercise_schedule_detail_screen.dart : 운동스케줄상세  
 6. 설정클래스  
 language_selection_screen.dart : 언어선택  
-theme_selection_screen.dart : 테마선택
-profile_settings : 개인설정<추가>
-profile_form : 개인설정 상세 화면<추가>
-profile_model : 개인설정 데이터모델 구현<추가>
-profile_actions : 개인설정 버튼클릭동작 구현<추가>
+theme_selection_screen.dart : 테마선택  
+profile_settings : 개인설정<추가>  
+profile_form : 개인설정 상세 화면<추가>  
+profile_model : 개인설정 데이터모델 구현<추가>  
+profile_actions : 개인설정 버튼클릭동작 구현<추가>  
 
 8. 파일구조도  
 ![Image](https://github.com/user-attachments/assets/5d0913eb-b0a2-4f6e-bd05-77e5720f9c2f)
